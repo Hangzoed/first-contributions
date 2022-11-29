@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Omar  Abdellatif](https://github.com/Hangzoed)
 - [Shivani R](https://github.com/shivu-srk)
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
